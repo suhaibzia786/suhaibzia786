@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suhaibzia786
-- 👀 I’m interested in CodeIgniter4, Laravel, React, React Native, Node.js, Express.js, MongoDB and MySQL
+- 👀 I’m interested in Nextjs, Laravel, React, React Native, Node.js, Express.js, MongoDB and MySQL
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me suhaibzia786@gmail.com is my email and www.suhaibzia.com is my website

@@ -93,7 +93,7 @@ Building scalable solutions, leading development teams, and driving digital tran
 </p>
 
 ### Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhaibzia786&theme=react-dark&hide_border=true&area=true"/>
+[![Suhaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaibzia786&theme=react-dark&hide_border=true&area=true&custom_title=Suhaib's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Organization Stats - Code N Code IT Solutions
 <p>
@@ -111,7 +111,7 @@ Building scalable solutions, leading development teams, and driving digital tran
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=suhaibzia786&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=suhaibzia786&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -152,8 +152,14 @@ Building scalable solutions, leading development teams, and driving digital tran
 ## 📈 Contribution Graph
 
 <div align="center">
-  
-![Snake animation](https://github.com/suhaibzia786/suhaibzia786/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhaibzia786/suhaibzia786/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhaibzia786/suhaibzia786/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suhaibzia786/suhaibzia786/output/github-contribution-grid-snake.svg">
+</picture>
+
+_If the snake animation doesn't appear, you need to [set up the GitHub Action](https://github.com/Platane/snk)._
 
 </div>
 
